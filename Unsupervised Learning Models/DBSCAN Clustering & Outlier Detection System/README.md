@@ -55,14 +55,20 @@ DBSCAN Clustering & Outlier Detection System/
 
 ## ⚙️ Installation
 
-```bash id="wvvv0m"
-git clone <your-repo-url>
-cd DBSCAN Clustering & Outlier Detection System
+Add **direct project link + instructions**
 
-pip install -r requirements.txt
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Unsupervised%20Learning%20Models/DBSCAN%20Clustering%20%26%20Outlier%20Detection%20System)
 ```
+## Run Locally
 
----
+```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Unsupervised Learning Models/DBSCAN Clustering & Outlier Detection System"
+pip install -r requirements.txt
+
+```
 
 ## 🏋️ Model Training
 
