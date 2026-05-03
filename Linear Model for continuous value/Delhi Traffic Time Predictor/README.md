@@ -72,17 +72,19 @@ Delhi-Traffic-Predictor/
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects
-cd delhi-traffic-predictor
+Add **direct project link + instructions**
+
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Linear%20Model%20for%20continuous%20value/Delhi%20Traffic%20Time%20Predictor)
 ```
-
-### 2. Install dependencies
+## Run Locally
 
 ```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Linear Model for continuous value/Delhi Traffic Time Predictor"
 pip install -r requirements.txt
 ```
-
 ### 3. Run the application
 
 ```bash
