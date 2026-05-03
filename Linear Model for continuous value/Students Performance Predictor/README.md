@@ -57,7 +57,16 @@ Given student-related features like:
 
 ## ⚙️ Installation
 
+Add **direct project link + instructions**
+
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Linear%20Model%20for%20continuous%20value/Students%20Performance%20Predictor)
+```
+## Run Locally
+
 ```bash
-git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects
-cd student-performance-app
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Linear Model for continuous value/Students Performance Predictor"
 pip install -r requirements.txt
+```
