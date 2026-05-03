@@ -60,17 +60,19 @@ Energy-Production-Predictor/
 
 ### 1. Clone the repository
 
-```
-git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects
-cd energy-production-predictor
-```
+Add **direct project link + instructions**
 
-### 2. Install dependencies
-
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Linear%20Model%20for%20continuous%20value/Energy%20Production%20Predictor)
 ```
+## Run Locally
+
+```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Linear Model for continuous value/Energy Production Predictor"
 pip install -r requirements.txt
 ```
-
 ### 3. Run the app
 
 ```
