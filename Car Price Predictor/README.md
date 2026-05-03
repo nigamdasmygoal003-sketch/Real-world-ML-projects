@@ -50,6 +50,6 @@ Built using **scikit-learn** and deployed as a **desktop application using Custo
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Car%20Price%20Predictor
 cd car-price-predictor
 pip install -r requirements.txt
