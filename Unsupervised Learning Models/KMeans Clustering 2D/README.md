@@ -53,14 +53,20 @@ KMeans Clustering 2D/
 
 ## ⚙️ Installation
 
-```bash
-git clone <your-repo-url>
-cd KMeans Clustering 2D
+Add **direct project link + instructions**
 
-pip install -r requirements.txt
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Unsupervised%20Learning%20Models/KMeans%20Clustering%202D)
 ```
+## Run Locally
 
----
+```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Unsupervised Learning Models/KMeans Clustering 2D"
+pip install -r requirements.txt
+
+```
 
 ## 🏋️ Model Training
 
@@ -97,7 +103,7 @@ Example output:
 ## 🌐 Run Web App
 
 ```bash
-streamlit run app.py
+streamlit run streamlitapp.py
 ```
 
 ---
