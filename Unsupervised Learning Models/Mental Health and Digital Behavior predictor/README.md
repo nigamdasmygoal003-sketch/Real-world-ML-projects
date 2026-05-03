@@ -53,14 +53,20 @@ Mental Health and Digital Behavior predictor/
 
 ## ⚙️ Installation
 
-```bash
-git clone <your-repo-url>
-cd Mental Health and Digital Behavior predictor
+Add **direct project link + instructions**
 
-pip install -r requirements.txt
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Unsupervised%20Learning%20Models/Mental%20Health%20and%20Digital%20Behavior%20predictor)
 ```
+## Run Locally
 
----
+```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Unsupervised Learning Models/Mental Health and Digital Behavior predictor"
+pip install -r requirements.txt
+
+```
 
 ## 🏋️ Model Training
 
