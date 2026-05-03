@@ -54,14 +54,20 @@ Mall Customer Segmentation predictor/
 
 ## ⚙️ Installation
 
-```bash
-git clone <your-repo-url>
-cd Mall Customer Segmentation predictor
+Add **direct project link + instructions**
 
-pip install -r requirements.txt
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Unsupervised%20Learning%20Models/Mall%20Customer%20Segmentation%20predictor)
 ```
+## Run Locally
 
----
+```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Unsupervised Learning Models/Mall Customer Segmentation predictor"
+pip install -r requirements.txt
+
+```
 
 ## 🏋️ Model Training
 
