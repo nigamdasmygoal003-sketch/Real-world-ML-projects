@@ -67,7 +67,7 @@ Coffee Sales Predictor/
 ## ⚙️ Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Linear%20Model%20for%20continuous%20value/Coffee%20Sales%20Predictor
 cd Coffee Sales Predictor
 
 pip install -r requirements.txt
