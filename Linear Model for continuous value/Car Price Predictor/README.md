@@ -54,7 +54,7 @@ Add **direct project link + instructions**
 ```md
 ## Project Folder
 [Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Linear%20Model%20for%20continuous%20value/Car%20Price%20Predictor)
-
+```
 ## Run Locally
 
 ```bash
