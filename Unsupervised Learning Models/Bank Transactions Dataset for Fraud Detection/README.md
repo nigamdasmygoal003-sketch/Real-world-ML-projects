@@ -57,14 +57,20 @@ Bank Transactions Dataset for Fraud Detection/
 
 ## ⚙️ Installation
 
-```bash id="fraud-install"
-git clone <your-repo-url>
-cd Bank Transactions Dataset for Fraud Detection
+Add **direct project link + instructions**
 
-pip install -r requirements.txt
+```md
+## Project Folder
+[Click here to open project](https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects/tree/main/Unsupervised%20Learning%20Models/Bank%20Transactions%20Dataset%20for%20Fraud%20Detection)
 ```
+## Run Locally
 
----
+```bash
+git clone https://github.com/nigamdasmygoal003-sketch/Real-world-ML-projects.git
+cd "Unsupervised Learning Models/Bank Transactions Dataset for Fraud Detection"
+pip install -r requirements.txt
+
+```
 
 ## 🏋️ Model Training
 
