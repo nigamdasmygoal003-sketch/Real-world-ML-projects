@@ -80,7 +80,7 @@ cd "Linear Model for continuous value/Coffee Sales Predictor"
 pip install -r requirements.txt
 
 ---
-
+```
 ## 🧪 Model Training
 
 ```bash
