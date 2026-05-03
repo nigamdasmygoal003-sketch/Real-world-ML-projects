@@ -1,8 +1,0 @@
-numpy
-pandas
-scikit-learn
-customtkinter
-joblib
-plotly
-seaborn
-matplotlib
